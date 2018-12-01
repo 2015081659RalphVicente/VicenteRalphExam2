@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1089419054854",
+    "firebase_url": "https://fir-exam2-d6462.firebaseio.com",
+    "project_id": "fir-exam2-d6462",
+    "storage_bucket": "fir-exam2-d6462.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089419054854:android:0872287659ad051d",
+        "android_client_info": {
+          "package_name": "com.vicenteralph.exam2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089419054854-m76f97t4n13kfo84kar4ehmao623fva5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vicenteralph.exam2",
+            "certificate_hash": "2e53a8acd6e188d5a4d5118e7c0f52c705d1b2b6"
+          }
+        },
+        {
+          "client_id": "1089419054854-eb02nckiko9aukkebp7i1ss4l272ic60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAihvTEjZP9wgJF8X9PZZPagBPJ4Fv2t28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089419054854-eb02nckiko9aukkebp7i1ss4l272ic60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
